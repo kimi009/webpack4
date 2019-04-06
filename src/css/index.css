@@ -1,0 +1,16 @@
+body{
+ background-color: #f5f7f9;
+}
+.content{
+  background: #ffffff;
+  height: 800px;
+  margin: 60px 200px;
+  box-shadow: 1px 0 8px rgba(0,0,0,0.75);
+}
+.bg{
+  background: url('../img/1.jpg') no-repeat center;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-size: 100% 99.9%;
+}
